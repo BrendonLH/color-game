@@ -10,3 +10,5 @@ Color game project, guess the correct color RGB
         b added some basic logic to add colors using the dom
         c. added a click handler for each square.
         d. added the random color function
+        e. refactored random color to generate random RGB color
+        f. changed the h1 background color to refelct correct color when picked
