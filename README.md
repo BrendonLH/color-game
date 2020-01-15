@@ -9,3 +9,4 @@ Color game project, guess the correct color RGB
         a. added color grid container with 6 colors
         b added some basic logic to add colors using the dom
         c. added a click handler for each square.
+        d. added the random color function
