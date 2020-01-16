@@ -17,3 +17,5 @@ Color game project, guess the correct color RGB
         a. added reset button and play again button
     2. updated logic to have easy and hard mode
         a. easy switched to 3 block, hard switches to 6 with dom display
+        b. changed font font sizes
+        c. added CSS transition properties to square and buttons
