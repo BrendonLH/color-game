@@ -19,3 +19,6 @@ Color game project, guess the correct color RGB
         a. easy switched to 3 block, hard switches to 6 with dom display
         b. changed font font sizes
         c. added CSS transition properties to square and buttons
+        d. removed button outline
+        e. changed text for play again logic
+        f. dried up the code. 
