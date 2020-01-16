@@ -12,3 +12,8 @@ Color game project, guess the correct color RGB
         d. added the random color function
         e. refactored random color to generate random RGB color
         f. changed the h1 background color to refelct correct color when picked
+## 1/15/2020
+    1. added white stripe with containing buttons
+        a. added reset button and play again button
+    2. updated logic to have easy and hard mode
+        a. easy switched to 3 block, hard switches to 6 with dom display
