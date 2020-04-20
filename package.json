@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/BrendonLH/color-game/issues"
   },
-  "homepage": "https://github.com/BrendonLH/color-game#readme"
+  "homepage": "https://github.com/BrendonLH/color-game#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg": "^8.0.2"
+  }
 }
