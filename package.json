@@ -1,0 +1,20 @@
+{
+  "name": "color-game",
+  "version": "1.0.0",
+  "description": "Color game project, guess the correct color RGB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendonLH/color-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrendonLH/color-game/issues"
+  },
+  "homepage": "https://github.com/BrendonLH/color-game#readme"
+}
